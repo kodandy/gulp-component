@@ -1,8 +1,9 @@
 gulp
 ==========
 
-`$ npm i -g gulp`
-`$ npm i`
++ `$ npm i -g gulp`
++ `$ npm i`
++ `gulp`各タスク
 
 ## 追加機能
 + css minify
